@@ -1,0 +1,4 @@
+make: Entering directory `/Users/ievab/code/ievabi/TaxiFareModel'
+pip install -r requirements.txt
+make: Leaving directory `/Users/ievab/code/ievabi/TaxiFareModel'
+ 
