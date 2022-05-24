@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ievab/code/ievabi/TaxiFareModel/mlruns/1/647388e758d64bd5b8815c8931538aa4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 647388e758d64bd5b8815c8931538aa4
+run_uuid: 647388e758d64bd5b8815c8931538aa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653403224219
+status: 1
+tags: []
+user_id: unknown
